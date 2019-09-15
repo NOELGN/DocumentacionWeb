@@ -1,0 +1,8 @@
+crear un "nuevo usuario" tipo "cliente"
+ver productos
+comprar productos 
+ir a "carrito compra" y "finaliza la compra"
+
+iniciar sesion con administrador
+ir a la seccion de carrito de compras
+para revisar los productos vendidos  

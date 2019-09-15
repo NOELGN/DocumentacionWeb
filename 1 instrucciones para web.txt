@@ -1,0 +1,67 @@
+NAVEGADOR ===> GOOGLE CHROME 
+primero hay que registrar un nuevo usuario 
+o ingresar un usuario ya registrado, ya que 
+es necesario iniciar sesion para adquirir una compra
+y ver datos
+
+EXISTEN DOS TIPOS DE USUARIO 
+
+...usuarios ya registrados..
+
+permisos:Cliente
+usuario: noe@outlook.com
+password: Amigoxd16
+
+permisos:administrador
+usuario: joel.lara.hernandez@outlook.com
+password: joel12345
+
+INICIO 
+usuario: le apareceran los productos y marcas disponibles en la web
+	para hacer la compra tiene que dar click en ver todos los 
+	productos en la parte del carrucel o en la pestaña productos del narvar
+
+administardor: prodra agregar nuevas marcas actualizar y eliminar 
+		y le apareceran todos los productos
+
+
+CERRAR SESION ==>en esta web en automatico cuando das click en iniciar sesion
+		dentro de la pagina iniciar sesion. cierra la sesion abierta
+		y abre la nueva sesion.
+		===== o de otra forma tambien======
+	        debes primero cerrar sesion si ya se a iniciado con una cuenta
+		para hacerlo la pestaña "cerrar sesion" se encuentra hasta abajo
+		de la pagina en el footer 
+
+PARA HACER LA COMPRA DE UN PRODUCTO
+
+vamos para la pestaña "producto" o en el carrucel dar en "ver prodcutos"
+
+usuario: el usuario solo ve los productos y puede hacer las compras
+        dando un solo click y se agregan asu carrito de compras 
+
+	despues tiene que dar click en "finalizar compra"
+	para que se genere su venta
+
+administrador: agrega nuevos productos
+		puede hacer compras tambien 
+		para agregar una imagen tiene que estar dentro de la ruta del proyecto 
+		preyecto/images/producto/"la imagen"; ==> solo selecciona y listo
+
+CARRITOS DE COMPRAS == aparesen los posibles productos a comprar seleccionados por el usuario
+
+cliente: le apareceran todos los productos comprados o seleccionados para su compra
+	tambien lo podra eliminar
+
+administrador: le apareceran todas las ventas que ha hecho a todos sus usuarios 
+		tambien los podra eliminar
+
+
+LAS VENTAS APARECEN EN ...
+
+al administrador las ----ventas---- le apareceran en "Carrito Compra"
+
+
+
+
+
